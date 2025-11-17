@@ -22,6 +22,13 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://github.com/yxl-prz/YSvelGoK"><b>YSvelGoK</b>: Production-ready Boilerplate</a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/languages/top/yxl-prz/YSvelGoK?style=flat-square" />
+            </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/yxl-prz/YSvelGoK?style=flat-square" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/yxl-prz/YSvelGoK?style=flat-square" /></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/yxl-prz/MemBase"><b>MemBase</b>: Internal Cheat Toolkit</a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/languages/top/yxl-prz/MemBase?style=flat-square" />
             </td>
